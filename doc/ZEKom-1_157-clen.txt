@@ -1,0 +1,13 @@
+ZEKom-1 157. člen
+
+(piškotki)
+
+(1) Shranjevanje podatkov ali pridobivanje dostopa do podatkov, shranjenih v terminalski opremi naročnika ali uporabnika, je dovoljeno samo pod pogojem, da je naročnik ali uporabnik v to privolil potem, ko je bil predhodno jasno in izčrpno obveščen o upravljavcu in namenih obdelave teh podatkov v skladu z zakonom, ki ureja varstvo osebnih podatkov.
+
+(2) Ne glede na določbe prejšnjega odstavka je dovoljeno tehnično shranjevanje podatkov ali dostop do njih izključno zaradi prenosa sporočila po elektronskem komunikacijskem omrežju, ali če je to nujno potrebno za zagotovitev storitve informacijske družbe, ki jo naročnik ali uporabnik izrecno zahtevata.
+
+(3) Če je tehnično izvedljivo in učinkovito ter v skladu z zakonom, ki ureja varstvo osebnih podatkov, se šteje, da uporabnik lahko izrazi svojo privolitev iz prvega odstavka tega člena tudi z uporabo ustreznih nastavitev v brskalniku ali drugih aplikacijah. Privolitev uporabnika ali naročnika pomeni osebno privolitev v skladu z zakonom, ki ureja varstvo osebnih podatkov.
+
+(4) Kadar gre za kršitev pravil o obveščanju in privolitvi posameznika iz prvega odstavka tega člena ter hkrati za kršitev zakona, ki ureja varstvo osebnih podatkov, se uporabljajo določbe tega zakona.
+
+(5) Inšpekcijski nadzor nad izvajanjem določb tega člena opravlja informacijski pooblaščenec.
