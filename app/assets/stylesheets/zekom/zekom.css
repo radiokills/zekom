@@ -1,0 +1,35 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+
+.zekom-notification{
+  background: #444;
+  color: white;
+  padding: 12px 0;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 1000
+}
+
+.zekom-notification-button{
+  color: white;
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid white;
+  background: #999;
+}
+
+.zekom-cookie-list{
+  border: 1px solid #999;
+  border-collapse: true;
+}
+
+.zekom-cookie-list td{
+  padding: 5px;
+  border-bottom: 1px solid #999;
+  vertical-align: top;
+}

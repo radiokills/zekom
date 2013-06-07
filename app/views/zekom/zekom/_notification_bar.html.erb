@@ -1,0 +1,6 @@
+<div class="zekom-notification">
+	Da bi vam olajšali uporabo našega spletnega mesta, uporabljamo piškotke (angl. cookies). 
+	Z uporabo strani soglašate z uporabo piškotkov.	
+	<%= link_to "Strinjam se", "/zekom/zekom/allow_cookies?current_url=" + request.fullpath, :class=>'zekom-notification-button zekom-agree'%>
+	<%= link_to "Želim izvedeti več", Zekom::Config.about_url, :class=>'zekom-notification-button zekom-more'%>
+</div>

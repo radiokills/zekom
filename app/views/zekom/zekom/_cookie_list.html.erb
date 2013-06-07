@@ -1,0 +1,19 @@
+<table class='zekom-cookie-list'>
+  <thead>
+    <tr>
+      <th>Ime piškotka</th>
+      <th>Trajanje piškotka</th>
+      <th>Opis</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <%Zekom::Kookie.active.each do |k|%>
+      <tr>
+        <td><%= k[:names].to_s%></td>
+        <td><%= k[:expires].to_s%></td>
+        <td><%= k[:description].to_s%></td>
+      </tr>
+    <% end -%>
+  </tbody>
+</table>

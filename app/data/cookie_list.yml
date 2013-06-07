@@ -1,0 +1,16 @@
+- cookie:
+  id: google_analytics
+  names: > 
+    _utma, _utmb, _utmc, _umtz
+  expires: > 
+    _umta: 2 leti, _umtb: 30min, _umtc: dokler je odprt brskalnik,  _umtz: 6 mesecev
+  description: > 
+    Google Analytics za svoje delovanje uporablja več piškotkov. __utma je trajen piškotek in je namenjen merjenju statističnih podatkov obiska spletne strani. Namenjen je sledenju tega, kolikokrat je uporabnik obiskal spletno stran, kdaj jo je obiskal prvič in kdaj zadnjič. Piškotka __utmb in __utmc skupaj omogočata izračun, kako dolgo traja posamezen obisk uporabnika. Piškotek __utmb zabeleži trenutek, kdaj je obiskovalec obiskal spletno stran, piškotek __utmc pa zabeleži, kdaj obiskovalec zapusti spletno stran. Piškotek __utmb poteče, ko obiskovalec zapusti spletno stran, piškotek __utmc pa poteče 30 minut po tem, ko uporabnik zapusti spletno stran. Piškotek __utmz vsebuje informacijo o tem, s katere spletne strani je prišel uporabnik, kateri iskalnik je uporabil, katero povezavo je kliknil, katero ključno besedo je uporabil in kje na svetu se je nahajal, ko je dostopal do spletne strani. Piškotek poteče po 6 mesecih. 
+- cookie:
+  id: adsense
+  names: > 
+    test_cookie, id
+  expires: > 
+    test_cookie: 15min, id: 2
+  description: >	
+    Double Click (založnikom bolj poznano kot AdSense) je Googlova oglaševalska platforma za založnike, ki se jo poslužujemo tudi pri nas. Oglase boste sicer zelo poredko videli, vendar vas moramo vseeno opozoriti na piškotke tudi s tega naslova. Double Click namesti dva piškotka. Prvi se imenuje "test cookie" in je trajni piškotek z življenjsko dobo 15 minut. Ta piškotek preveri, če brskalnik sprejema piškotke. Če jih sprejema, nato Double Click namesti še drugi piškotek, ki se imenuje "id". Id piškotek je trajni piškotek z življenjsko dobo dveh let. Piškotke, ki jih ponuja Double Click, se uporabljajo za merjenje učinkovitosti naših reklamnih kampanj, da omejevanje ogledov določenega oglasa ter serviranju oglasov, ki so bliže tvojim zanimanjem. Oglase, ki jih vidite, lahko nadzirate z upraviteljem nastavitev za oglaševanje. 
