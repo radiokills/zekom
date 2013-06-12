@@ -19,7 +19,6 @@ module Zekom
       def active
         Zekom::Kookie.kookies.find_all{|k| Zekom::Kookie.use_kookies.include?(k[:id])}
       end
-		
     end
 	end
 end

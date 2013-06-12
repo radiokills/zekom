@@ -24,7 +24,7 @@ Run the install generator:
 
 ## Configuration
 This gem comes with some general cookies descriptions. You can add your own in config/initializers/zekom.rb.
-You must supply cookies via hash for now.
+You can supply cookies via hash.
 ```ruby
 Zekom::Kookie.add({
   :id=>'uservoice',
@@ -51,11 +51,14 @@ Predifined cookies can be found here: https://github.com/radiokills/zekom/blob/m
 ##Helpers
 
 __zekom_notification__ - Shows the notification about your page using cookies
+
 __cookie_list__  - Shows cookies descriptions (as defined in yaml file or initializer)
-__cookies_allowed - Returns true or false based on user previous decision
+
+__cookies_allowed___ - Returns true or false based on user previous decision
 
 ##Routes
 This gem adds two routes:
 
 your_app/zekom/zekom/about - It displays basic cookie info and lists cookies (via cookie_list helper)
+
 your_app/zekom/allow_cookies - It sets cookie which states that user agree with using cookies
